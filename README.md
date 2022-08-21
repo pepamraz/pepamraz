@@ -9,7 +9,7 @@ Ahoj, jmenuji se Pepa Mráz a je mi 18 let. Počítačům se věnuji už nějak�
 * 🌍  Jsem z Česka (Czechia)
 * 🖥️  Mé personal portfolio naleznete [zde](http://pepamraz.cz).
 * ✉️  [pepamraz1@gmail.com](mailto:pepamraz1@gmail.com)
-* 🧠  Momentálně se učím Symfony
+* 🧠  Momentálně se učím PHP Symfony Framework
 * ⚡  Krom počítačů, tak se i rád věnuji Kalistenice
 
 ### Schopnosti
