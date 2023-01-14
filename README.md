@@ -1,7 +1,7 @@
 Ahoj 👋 Jmenuji se Pepa Mráz
 ==========================
 
-⭐ CEO of <a href="https://nejlepsiwebovky.cz" target="_blank">NejlepšíWebovky.cz</a>
+⭐ <a href="https://nejlepsiwebovky.cz" target="_blank">NejlepšíWebovky.cz</a>
 
 Web Developer a Programátor
 ---------------------------
@@ -38,9 +38,3 @@ Ahoj, jmenuji se Pepa Mráz a je mi 19 let. Počítačům se věnuji už nějak�
 ### Sociální sítě
 
 <p align="left"> <a href="https://www.github.com/FryerZabijak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/pepa_mraz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c//UCMlo7Ew_x0FjDqlvctXkGTg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-
-<b>Mé GitHub statistiky</b>
-
-<a href="http://www.github.com/FryerZabijak"><img src="https://github-readme-stats.vercel.app/api?username=FryerZabijak&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="FryerZabijak's GitHub stats" /></a>
-
-<a href="https://github.com/FryerZabijak" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FryerZabijak&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
