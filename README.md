@@ -6,7 +6,7 @@ Ahoj 👋 Jmenuji se Pepa Mráz
 Web Developer a Programátor
 ---------------------------
 Počítačům se věnuji už nějaký ten rok, pořádně jsem se jim však začal věnovat po nástupu na střední školu s IT zaměřením.<br><br>
-Postupně jsem zlepšoval své schopnosti a naučil se mnoho nových věcí, především díky tomu, že jsem se <strong>vzdělával sám</strong> a <strong>budoval vlastní projekty</strong>.<br><br>
+Postupně jsem se zlepšoval a naučil se mnoho nových věcí, především díky tomu, že jsem se <strong>vzdělával sám</strong> a <strong>budoval vlastní projekty</strong>.<br><br>
 
 * 🌍  Jsem z Česka (Czechia)
 * 🖥️  Mé personal portfolio naleznete [zde](http://pepamraz.cz).
