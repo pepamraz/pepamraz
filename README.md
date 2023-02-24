@@ -6,7 +6,9 @@ Ahoj 👋 Jmenuji se Pepa Mráz
 Web Developer a Programátor
 ---------------------------
 
-Ahoj, jmenuji se Pepa Mráz a je mi 19 let. Počítačům se věnuji už nějaký ten rok, pořádně jsem se jim však začal věnovat po nástupu na střední školu s IT zaměřením. Postupně jsem zlepšoval své schopnosti a naučil se mnoho nových věcí, především díky tomu, že jsem se vzdělával sám a budoval vlastní projekty.
+- Ahoj, jmenuji se Pepa Mráz a je mi 19 let. 
+- Počítačům se věnuji už nějaký ten rok, pořádně jsem se jim však začal věnovat po nástupu na střední školu s IT zaměřením. 
+- Postupně jsem zlepšoval své schopnosti a naučil se mnoho nových věcí, především díky tomu, že jsem se vzdělával sám a budoval vlastní projekty.
 
 * 🌍  Jsem z Česka (Czechia)
 * 🖥️  Mé personal portfolio naleznete [zde](http://pepamraz.cz).
