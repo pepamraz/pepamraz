@@ -21,5 +21,5 @@ Postupně jsem se zlepšoval a naučil se mnoho nových věcí, především dí
 <strong>Databáze</strong>: MySQL, MongoDB, SQLite<br>
 
 ## 💻 Tvorba desktopových aplikací
-<strong>Overall</strong>: C#, .NET WPF, Python, Electron.js 🐍<br>
-<strong>Linux</strong>: Skripty v Shellu🐧<br>
+<strong>Overall</strong>: C#, .NET WPF, Python, Electron.js<br>
+<strong>Linux🐧</strong>: Skripty v Shellu<br>
