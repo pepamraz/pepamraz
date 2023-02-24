@@ -22,4 +22,4 @@ Postupně jsem se zlepšoval a naučil se mnoho nových věcí, především dí
 
 ## 💻 Tvorba desktopových aplikací
 <strong>Overall</strong>: C#, .NET WPF, Python, Electron.js<br>
-<strong>🐧Linux</strong>: Skripty v Shellu<br>
+<strong>Linux</strong>🐧: Skripty v Shellu<br>
