@@ -19,6 +19,7 @@ Postupně jsem se zlepšoval a naučil se mnoho nových věcí, především dí
 <strong>Frontend</strong>: React, Svelte<br>
 <strong>Backend</strong>: PHP, Laravel, Express.js, Flask, Django<br>
 <strong>Databáze</strong>: MySQL, MongoDB, SQLite<br>
+<strong>CMS</strong>: Wordpress, Elementor<br>
 
 ## 💻 Tvorba desktopových aplikací
 <strong>Overall</strong>: C#, .NET WPF, Python, Electron.js<br>
