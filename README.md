@@ -14,12 +14,12 @@ Postupně jsem se zlepšoval a naučil se mnoho nových věcí, především dí
 * ⚡  Krom počítačů, tak se i rád věnuji Kalistenice
 
 ## 🌐 Tvorba webových stránek
-Basic: HTML, CSS, JS<br>
-Styly: Tailwind CSS, Bootstrap, SCSS<br>
-Frontend: React, Svelte<br>
-Backend: PHP, Laravel, Express.js, Flask, Django<br>
-Databáze: MySQL, MongoDB, SQLite<br>
+<strong>Basic</strong>: HTML, CSS, JS<br>
+<strong>Styly</strong>: Tailwind CSS, Bootstrap, SCSS<br>
+<strong>Frontend</strong>: React, Svelte<br>
+<strong>Backend</strong>: PHP, Laravel, Express.js, Flask, Django<br>
+<strong>Databáze</strong>: MySQL, MongoDB, SQLite<br>
 
 ## 💻 Tvorba desktopových aplikací
-Overall: C#, .NET WPF, Python, Electron.js 🐍<br>
-Linux: Skripty v Shellu🐧<br>
+<strong>Overall</strong>: C#, .NET WPF, Python, Electron.js 🐍<br>
+<strong>Linux</strong>: Skripty v Shellu🐧<br>
