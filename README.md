@@ -22,5 +22,5 @@ Postupně jsem se zlepšoval a naučil se mnoho nových věcí, především dí
 <strong>CMS</strong>: Wordpress, Elementor<br>
 
 ## 💻 Tvorba desktopových aplikací
-<strong>Overall</strong>: C#, .NET WPF, Python, základy Javy<br>
+<strong>Overall</strong>: C#, .NET WPF, Python, Java - základy<br>
 <strong>Linux</strong>🐧: Skripty v Shellu<br>
