@@ -16,7 +16,7 @@ Postupně jsem se zlepšoval a naučil se mnoho nových věcí, především dí
 ## 🌐 Tvorba webových stránek
 <strong>Basic</strong>: HTML, CSS, JS<br>
 <strong>Styly</strong>: Tailwind CSS, Bootstrap, SCSS<br>
-<strong>Frontend</strong>: React, Svelte<br>
+<strong>Frontend</strong>: React, Next.js, Svelte<br>
 <strong>Backend</strong>: PHP, Laravel, Express.js, Flask, Django<br>
 <strong>Databáze</strong>: MySQL, MongoDB, SQLite<br>
 <strong>CMS</strong>: Wordpress, Elementor<br>
