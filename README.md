@@ -5,6 +5,8 @@ But don't worry — I'm currently diving deep into backend development with **PH
 and exploring the exciting world of **Game Dev / VR Dev with Unity 3D**. 🎮
 
 
+📍 Based in **Ostrava, Czech Republic** 🇨🇿
+
 
 ### 🚀 My Side Hustles
 
